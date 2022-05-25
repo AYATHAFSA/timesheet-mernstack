@@ -1,0 +1,11 @@
+{
+  "name": "timesheet-mern-stack",
+  "version": "1.0.0",
+  "description": "timesheet mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayat",
+  "license": "MIT"
+}
